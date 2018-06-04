@@ -1,0 +1,20 @@
+2018-06-03 21:23:33   书籍信息写入失败,原因:  (1406, "Data too long for column 'book_author' at row 1")
+
+2018-06-03 21:37:09   书籍信息写入失败,原因:  (1406, "Data too long for column 'book_author' at row 1")
+
+2018-06-04 00:26:26   书籍信息写入失败,原因:  (1406, "Data too long for column 'book_name' at row 1")
+
+2018-06-04 10:44:11   书籍信息写入失败,原因:  (1366, "Incorrect integer value: 'English | 172' for column 'book_page' at row 1")
+
+2018-06-04 11:33:40   书籍信息写入失败,原因:  (1265, "Data truncated for column 'book_page' at row 1")
+
+2018-06-04 12:03:44   书籍信息写入失败,原因:  (1406, "Data too long for column 'book_format' at row 1")
+
+2018-06-04 12:12:52   书籍信息写入失败,原因:  (1265, "Data truncated for column 'book_page' at row 1")
+
+2018-06-04 13:20:17   书籍信息写入失败,原因:  (1406, "Data too long for column 'book_format' at row 1")
+
+2018-06-04 13:21:34   书籍信息写入失败,原因:  (1406, "Data too long for column 'book_format' at row 1")
+
+2018-06-04 13:24:58   书籍信息写入失败,原因:  (1406, "Data too long for column 'book_format' at row 1")
+
