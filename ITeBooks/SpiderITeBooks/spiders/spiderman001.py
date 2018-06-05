@@ -105,7 +105,7 @@ class Spiderman001Spider(scrapy.Spider):
          item['book_language']=re.findall('<dt>Language:</dt><dd>(.*?)</dd>',book_detail,re.S)[0].strip()
 
          #书籍的大小
-         item['book_size']=re.findall('<dt>File size:</dt><dd>(.*?)</dd>',book_detail,re.S)[0].strip()
+         item['book_size']=re.findall('<dt>File size:</dt><dd>(.*?)</dd>',book_detail,re.S)[0].replace('MB','').strip()
 
          #书籍文件格式
          item['book_format']=re.findall('<dt>File format:</dt><dd>(.*?)</dd>',book_detail,re.S)[0].strip()
