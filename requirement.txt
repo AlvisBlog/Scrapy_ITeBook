@@ -18,7 +18,7 @@ pycparser==2.18
 PyDispatcher==2.0.5
 PyMySQL==0.8.1
 pyOpenSSL==18.0.0
-pywin32==221
+pywin32==301
 queuelib==1.5.0
 requests==2.18.4
 Scrapy==1.5.0
